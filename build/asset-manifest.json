@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.65a4ea78.chunk.js",
+    "main.js.map": "/static/js/main.65a4ea78.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0105f97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0105f97.js.map",
+    "static/js/2.acb2144d.chunk.js": "/static/js/2.acb2144d.chunk.js",
+    "static/js/2.acb2144d.chunk.js.map": "/static/js/2.acb2144d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66d5b3941c62058c8347c8fdb2e5136a.js": "/precache-manifest.66d5b3941c62058c8347c8fdb2e5136a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.acb2144d.chunk.js.LICENSE.txt": "/static/js/2.acb2144d.chunk.js.LICENSE.txt",
+    "static/media/background.jpeg": "/static/media/background.c19bcc64.jpeg",
+    "static/media/eth.png": "/static/media/eth.5fc0c9bd.png",
+    "static/media/logo.svg": "/static/media/logo.f14b1d2f.svg",
+    "static/media/logo_white.svg": "/static/media/logo_white.0e48903e.svg",
+    "static/media/openexa_logonew.png": "/static/media/openexa_logonew.56abb131.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0105f97.js",
+    "static/js/2.acb2144d.chunk.js",
+    "static/js/main.65a4ea78.chunk.js"
+  ]
+}
